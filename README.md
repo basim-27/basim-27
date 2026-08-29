@@ -14,9 +14,9 @@ I'm currently learning Web Development and building projects along the way.
 
 ### 🚀 My Learning Journey
 
-I'm following a 12-month **Modern Web Application Development** course at SMIT and building projects with every new concept I learn.
+I'm following a 12-month **Modern Web Application Development** course at **SMIT** and building projects with every new concept I learn.
 
-**5 Classes → 5 Projects → More Coming... 🔥**
+**6 Classes → 6 Projects → More Coming... 🔥**
 
 ### 📂 My Projects
 
@@ -27,10 +27,11 @@ Some of my current projects:
 * 📊 [Student Result Card](https://github.com/basim-27/assignment3-table)
 * 🏋️ [GYM Membership Form](https://github.com/basim-27/practice-gym-form)
 * ⚛️ [Periodic Table](https://github.com/basim-27/periodic-table)
+* 📝 [Multi-Page Form](https://github.com/basim-27/multipages-form)
 
 ### 🎯 My Goal
 
-To become a **professional Full-Stack Developer** by continuously learning, building and deploying real-world projects.
+To become a **professional Full-Stack Developer** by continuously learning, building, and deploying real-world projects.
 
 ### 📈 What I'm Doing
 
