@@ -16,7 +16,7 @@ I'm currently learning Web Development and building projects along the way.
 
 I'm following a 12-month **Modern Web Application Development** course at **SMIT** and building projects with every new concept I learn.
 
-**6 Classes → 6 Projects → More Coming... 🔥**
+**6 Classes → 7 Projects → More Coming... 🔥**
 
 ### 📂 My Projects
 
@@ -28,6 +28,7 @@ Some of my current projects:
 * 🏋️ [GYM Membership Form](https://github.com/basim-27/practice-gym-form)
 * ⚛️ [Periodic Table](https://github.com/basim-27/periodic-table)
 * 📝 [Multi-Page Form](https://github.com/basim-27/multipages-form)
+* ⚔️ [JJK Fan Page](https://github.com/basim-27/jjk-fanpage)
 
 ### 🎯 My Goal
 
