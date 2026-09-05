@@ -29,6 +29,9 @@ Some of my current projects:
 * ⚛️ [Periodic Table](https://github.com/basim-27/periodic-table)
 * 📝 [Multi-Page Form](https://github.com/basim-27/multipages-form)
 * ⚔️ [JJK Fan Page](https://github.com/basim-27/jjk-fanpage)
+* ➕ [Addition Calculator](https://github.com/basim-27/addition-calculator)
+* ⚖️ [BMI Calculator](https://github.com/basim-27/bmi-calculator)
+* 🎂 [Age Calculator](https://github.com/basim-27/age-calculator)
 
 ### 🎯 My Goal
 
