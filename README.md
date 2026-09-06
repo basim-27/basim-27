@@ -32,6 +32,7 @@ Some of my current projects:
 * ➕ [Addition Calculator](https://github.com/basim-27/addition-calculator)
 * ⚖️ [BMI Calculator](https://github.com/basim-27/bmi-calculator)
 * 🎂 [Age Calculator](https://github.com/basim-27/age-calculator)
+* 📊 [Table Generator](https://github.com/basim-27/table-generator)
 
 ### 🎯 My Goal
 
