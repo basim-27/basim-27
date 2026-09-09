@@ -16,7 +16,7 @@ I'm currently learning Web Development and building projects along the way.
 
 I'm following a 12-month **Modern Web Application Development** course at **SMIT** and building projects with every new concept I learn.
 
-**9 Classes → 15 Projects → More Coming... 🔥**
+**9 Classes → 16 Projects → More Coming... 🔥**
 
 ### 📂 My Projects
 
@@ -35,6 +35,7 @@ Some of my current projects:
 * 📊 [Table Generator](https://github.com/basim-27/table-generator)
 * 🧮 [Subtraction Calculator](https://github.com/basim-27/subtration-calculator)
 * ✖️ [Multiplication Calculator](https://github.com/basim-27/multiplication-calculator)
+* ➗ [Division Calculator](https://github.com/basim-27/division-calculator)
 
 ### 🎯 My Goal
 
