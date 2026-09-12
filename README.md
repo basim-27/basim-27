@@ -16,7 +16,7 @@ I'm currently learning Web Development and building projects along the way.
 
 I'm following a 12-month **Modern Web Application Development** course at **SMIT** and building projects with every new concept I learn.
 
-**9 Classes → 16 Projects → More Coming... 🔥**
+**9 Classes → 17 Projects → More Coming... 🔥**
 
 ### 📂 My Projects
 
