@@ -36,6 +36,7 @@ Some of my current projects:
 * 🧮 [Subtraction Calculator](https://github.com/basim-27/subtration-calculator)
 * ✖️ [Multiplication Calculator](https://github.com/basim-27/multiplication-calculator)
 * ➗ [Division Calculator](https://github.com/basim-27/division-calculator)
+* 🔢 [Simple Counter App](https://github.com/basim-27/simple-counter)
 
 ### 🎯 My Goal
 
