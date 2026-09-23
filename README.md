@@ -16,7 +16,7 @@ I'm currently learning Web Development and building projects along the way.
 
 I'm following a 12-month **Modern Web Application Development** course at **SMIT** and building projects with every new concept I learn.
 
-**12 Classes → 21 Projects → More Coming... 🔥**
+**12 Classes → 22 Projects → More Coming... 🔥**
 
 ### 📂 My Projects
 
@@ -39,6 +39,7 @@ Some of my current projects:
 * 🔢 [Simple Counter App](https://github.com/basim-27/simple-counter)
 * 🧮 [Functional Calculator](https://github.com/basim-27/functional-calculator)
 * 📸[Instagram Profile Card](https://github.com/basim-27/instagram-profile-card)
+* 🎨[Background Color Changer](https://github.com/basim-27/color-changing)
 
 ### 🎯 My Goal
 
