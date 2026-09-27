@@ -41,6 +41,7 @@ Some of my current projects:
 * 📸[Instagram Profile Card](https://github.com/basim-27/instagram-profile-card)
 * 🎨[Background Color Changer](https://github.com/basim-27/color-changing)
 * 🎧[Music Player UI](https://github.com/basim-27/music-player-ui)
+* 📝[Registration Form](https://github.com/basim-27/registration-form)
 
 ### 🎯 My Goal
 
