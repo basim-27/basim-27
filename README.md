@@ -16,11 +16,11 @@ I'm currently learning Web Development and building projects along the way.
 
 I'm following a 12-month **Modern Web Application Development** course at **SMIT** and building projects with every new concept I learn.
 
-**14 Classes → 24 Projects → More Coming... 🔥**
+**14 Classes → 25 Projects → More Coming... 🔥**
 
 ### 📂 My Projects
 
-Some of my current projects:
+My top repos:
 
 * 🌐 [Multi-Page Wikipedia Website](https://github.com/basim-27/assignment1-wikipedia)
 * 🍳 [Recipe Website](https://github.com/basim-27/recipe-website)
