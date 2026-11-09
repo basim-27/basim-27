@@ -1,9 +1,15 @@
 # Muhammad Basim
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&width=600&lines=Aspiring+Full-Stack+Developer;SMIT+Student;Frontend+Developer+in+Progress;Building+Ideas+Into+Projects)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;SMIT+Student;Frontend+Developer+in+Progress;Building+Ideas+Into+Projects" alt="Typing SVG"/>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=basim-27&style=for-the-badge&color=0e75b6)](https://github.com/basim-27)
-![Followers](https://img.shields.io/github/followers/basim-27?style=for-the-badge&color=blue)
+<p align="center">
+  <a href="https://github.com/basim-27">
+    <img src="https://komarev.com/ghpvc/?username=basim-27&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  </a>
+  <img src="https://img.shields.io/github/followers/basim-27?style=for-the-badge&color=blue" alt="Followers"/>
+</p>
 
 ---
 
@@ -21,24 +27,24 @@ Hey! I'm **Muhammad Basim**, an aspiring Full-Stack Developer from Karachi, Paki
 
 ### ◈ Tech Stack & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" alt="Tech Stack"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+</p>
 
-### ◈ My Learning Journey
+### ◈ My Journey
 
 Currently pursuing the **12-month Modern Web Application Development course at Saylani Mass IT Training (SMIT)**.
 
 My journey is focused on developing strong programming fundamentals, creating responsive websites, and gradually moving towards full-stack development.
 
-**My Development Cycle:**
-
-`Learn` → `Code` → `Build` → `Deploy` → `Improve`
+**Learn → Code → Build → Deploy → Improve**
 
 ### ◈ Featured Projects
 
@@ -53,15 +59,25 @@ My journey is focused on developing strong programming fundamentals, creating re
 | 📝 [Registration Form](https://github.com/basim-27/registration-form) | HTML form project |
 | 🍳 [Recipe Website](https://github.com/basim-27/recipe-website) | Recipe website |
 
-[![Explore Repositories](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/basim-27?tab=repositories)
+<p align="center">
+  <a href="https://github.com/basim-27?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ### ◈ GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basim-27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=basim-27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basim-27&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=basim-27&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=basim-27&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=basim-27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ### ◈ Future Goals
 
@@ -74,7 +90,11 @@ My journey is focused on developing strong programming fundamentals, creating re
 
 ### ◈ Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-basim--27-181717?style=for-the-badge&logo=github)](https://github.com/basim-27)
+<p align="center">
+  <a href="https://github.com/basim-27">
+    <img src="https://img.shields.io/badge/GitHub-basim--27-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
