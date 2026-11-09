@@ -1,109 +1,87 @@
-# 𝑴𝒖𝒉𝒂𝒎𝒎𝒂𝒅 𝑩𝒂𝒔𝒊𝒎
+# Muhammad Basim
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;SMIT+Student;Building+Ideas+Into+Projects;Learn.+Build.+Improve.+Repeat](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=600\&lines=Aspiring+Full-Stack+Developer;SMIT+Student;Building+Ideas+Into+Projects;Learn.+Build.+Improve.+Repeat)." alt="Typing SVG" />
-\</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&width=600&lines=Aspiring+Full-Stack+Developer;SMIT+Student;Frontend+Developer+in+Progress;Building+Ideas+Into+Projects)
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/basim-27](https://github.com/basim-27)">
-&#x20;   \<img src="[https://komarev.com/ghpvc/?username=basim-27&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge](https://komarev.com/ghpvc/?username=basim-27\&label=PROFILE+VIEWS\&color=0e75b6\&style=for-the-badge)" alt="Profile Views"/>
-&#x20; \</a>
-&#x20; \<img src="[https://img.shields.io/github/followers/basim-27?label=Followers&style=for-the-badge&color=blue](https://img.shields.io/github/followers/basim-27?label=Followers\&style=for-the-badge\&color=blue)" alt="Followers"/>
-\</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=basim-27&style=for-the-badge&color=0e75b6)](https://github.com/basim-27)
+![Followers](https://img.shields.io/github/followers/basim-27?style=for-the-badge&color=blue)
 
 ---
 
 ### ◈ About Me
 
-```yaml
-name: Muhammad Basim
-location: Karachi, Pakistan
-role: Aspiring Full-Stack Developer
-education: SMIT - Modern Web Application Development
+Hey! I'm **Muhammad Basim**, an aspiring Full-Stack Developer from Karachi, Pakistan.
 
-currently_learning:
-  - HTML5
-  - CSS3
-  - JavaScript
-  - Bootstrap 5
-  - Responsive Web Design
-  - Git & GitHub
+- 🎓 SMIT Student – Modern Web Application Development
+- 💻 Passionate about Web Development and Technology
+- 🚀 Building websites and creative projects.
+- 🤖 Exploring AI-assisted development.
+- ⚡ Learning, experimenting, and improving every day.
 
-interests:
-  - Web Development
-  - Artificial Intelligence
-  - Building Creative Projects
-  - Exploring New Technologies
+> I believe in learning by building, not just watching tutorials.
 
-mindset: "Learn by Building"
-```
+### ◈ Tech Stack & Tools
 
-I'm a passionate beginner web developer turning ideas into real-world projects. I enjoy experimenting with technologies, solving problems, and combining my own coding skills with AI-assisted development.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ◈ Tech Stack
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=html,css,bootstrap,js,,git,github,vscode](https://skillicons.dev/icons?i=html,css,bootstrap,js,,git,github,vscode)" /> \</p>
-
-### ◈ My Journey
+### ◈ My Learning Journey
 
 Currently pursuing the **12-month Modern Web Application Development course at Saylani Mass IT Training (SMIT)**.
 
-I'm learning step by step, building projects, experimenting with designs, and improving my development skills with every assignment.
+My journey is focused on developing strong programming fundamentals, creating responsive websites, and gradually moving towards full-stack development.
 
-**Learn → Code → Build → Deploy → Improve**
+**My Development Cycle:**
+
+`Learn` → `Code` → `Build` → `Deploy` → `Improve`
 
 ### ◈ Featured Projects
 
-| Project                                                                        | Description                         |
-| ------------------------------------------------------------------------------ | ----------------------------------- |
-| 🌐 [TITAN Website](https://github.com/basim-27/TITAN-Website)                  | Modern multi-page institute website |
-| 🏛️ [Saylani Website Clone](https://github.com/basim-27/saylani-welfare-clone) | Educational website clone           |
-| 🏋️ [FitLife Landing Page](https://github.com/basim-27/landing-page)           | Gym landing page                    |
-| ⚔️ [JJK Fan Page](https://github.com/basim-27/jjk-fanpage)                     | Anime-themed fan website            |
-| 🎧 [Music Player UI](https://github.com/basim-27/music-player-ui)              | Custom music player interface       |
-| 🎨 [Background Color Changer](https://github.com/basim-27/color-changing)      | Interactive JavaScript project      |
-| 📝 [Registration Form](https://github.com/basim-27/registration-form)          | HTML form project                   |
-| 🍳 [Recipe Website](https://github.com/basim-27/recipe-website)                | Multi-page recipe website           |
+| Project | Description |
+|:---|:---|
+| 🌐 [TITAN Website](https://github.com/basim-27/TITAN-Website) | Multi-page institute website |
+| 🏛️ [Saylani Website Clone](https://github.com/basim-27/saylani-welfare-clone) | Educational website clone |
+| 🏋️ [FitLife Landing Page](https://github.com/basim-27/landing-page) | Gym landing page |
+| ⚔️ [JJK Fan Page](https://github.com/basim-27/jjk-fanpage) | Anime-themed website |
+| 🎧 [Music Player UI](https://github.com/basim-27/music-player-ui) | Music player interface |
+| 🎨 [Background Color Changer](https://github.com/basim-27/color-changing) | JavaScript project |
+| 📝 [Registration Form](https://github.com/basim-27/registration-form) | HTML form project |
+| 🍳 [Recipe Website](https://github.com/basim-27/recipe-website) | Recipe website |
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/basim-27?tab=repositories](https://github.com/basim-27?tab=repositories)">
-&#x20;   \<img src="[https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
-&#x20; \</a>
-\</p>
+[![Explore Repositories](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/basim-27?tab=repositories)
 
 ### ◈ GitHub Statistics
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=basim-27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=basim-27\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=basim-27&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=basim-27\&layout=compact\&theme=tokyonight\&hide_border=true)" />
-\</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basim-27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=basim-27&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=basim-27\&theme=tokyonight\&hide_border=true)" />
-\</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basim-27&layout=compact&theme=tokyonight&hide_border=true)
 
-### ◈ Current Goals
+![GitHub Streak](https://streak-stats.demolab.com?user=basim-27&theme=tokyonight&hide_border=true)
 
-- Master JavaScript and modern frontend development.
-- Build more responsive and interactive websites.
-- Learn React.js and backend development.
-- Explore AI-powered applications.
+### ◈ Future Goals
+
+- Master JavaScript.
+- Learn React.js and modern frontend development.
+- Explore Node.js and backend development.
+- Work with databases and APIs.
+- Build real-world full-stack applications.
 - Become a professional Full-Stack Developer.
 
 ### ◈ Connect With Me
 
-\<p align="left">
-&#x20; \<a href="[https://github.com/basim-27](https://github.com/basim-27)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
-&#x20; \</a>
-\</p>
+[![GitHub](https://img.shields.io/badge/GitHub-basim--27-181717?style=for-the-badge&logo=github)](https://github.com/basim-27)
 
 ---
 
-\<p align="center">
-&#x20; \<i>"Great things are built one line of code at a time."\</i>
-\</p>
+<p align="center">
+  <i>"From writing my first HTML tag to building full-stack applications."</i>
+</p>
 
-\<p align="center">
-&#x20; \<b>Thanks for visiting my profile! ⭐\</b>
-\</p>
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
