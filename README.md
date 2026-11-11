@@ -112,7 +112,7 @@ My learning journey is focused on:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,100:00D9FF&height=2&section=header" width="85%" alt="Divider"/>
 </p>
 
-<!-- ==================== PROJECTS ==================== -->
+<!-- ==================== FEATURED PROJECTS ==================== -->
 
 ## Featured Projects
 
@@ -146,8 +146,23 @@ My learning journey is focused on:
 ## GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=basim-27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=basim-27&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=basim-27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&show=contributions&hide=commits"
+    width="90%"
+    alt="GitHub Statistics and Contributions"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=basim-27&layout=compact&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <i>Every commit is a step forward.</i>
 </p>
 
 <p align="center">
@@ -160,7 +175,11 @@ My learning journey is focused on:
 
 <p align="center">
   <a href="https://github.com/basim-27">
-    <img src="https://ghchart.rshah.org/basim-27" alt="Muhammad Basim GitHub Contribution Calendar" width="100%"/>
+    <img
+      src="https://ghchart.rshah.org/basim-27"
+      alt="Muhammad Basim GitHub Contribution Calendar"
+      width="100%"
+    />
   </a>
 </p>
 
