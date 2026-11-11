@@ -1,26 +1,36 @@
-# Muhammad Basim
+<!-- ANIMATED HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+Full-Stack+Developer;Frontend+Developer+in+Progress;SMIT+Student;Turning+Ideas+Into+Code" alt="Typing SVG"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0077B6,100:00D9FF&height=220&section=header&text=Muhammad%20Basim&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Header"/>
 </p>
+
+<!-- TYPING ANIMATION -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=55&lines=Aspiring+Full-Stack+Developer;Frontend+Developer+in+Progress;SMIT+Student;Building+Ideas+Into+Code" alt="Typing Animation"/>
+</p>
+
+<!-- PROFILE BADGES -->
 
 <p align="center">
   <a href="https://github.com/basim-27">
-    <img src="https://komarev.com/ghpvc/?username=basim-27&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=basim-27&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
   <a href="https://github.com/basim-27?tab=followers">
-    <img src="https://img.shields.io/github/followers/basim-27?style=for-the-badge&color=blue&logo=github&label=FOLLOWERS" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/basim-27?style=for-the-badge&color=0077B6&logo=github&label=FOLLOWERS" alt="Followers"/>
   </a>
   <a href="https://github.com/basim-27?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-black?style=for-the-badge&logo=github" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-181717?style=for-the-badge&logo=github" alt="Repositories"/>
   </a>
 </p>
 
 <p align="center">
-  <b>Aspiring Developer | Web Enthusiast | Lifelong Learner</b>
+  <b>DEVELOPER</b> &nbsp; | &nbsp; <b>TECH ENTHUSIAST</b> &nbsp; | &nbsp; <b>LIFELONG LEARNER</b>
 </p>
 
----
+<br/>
+
+<!-- ABOUT ME -->
 
 ## About Me
 
@@ -35,29 +45,33 @@ I'm passionate about technology, programming, and building creative digital expe
 - Learning new technologies and building projects.
 - Working towards becoming a Professional Full-Stack Developer.
 
-> "Great developers are not born. They are built through curiosity, consistency, and code."
+<p align="center">
+  <i>"Great developers are built through curiosity, consistency, and code."</i>
+</p>
 
----
+<br/>
+
+<!-- TECH STACK -->
 
 ## Tech Stack & Tools
 
 ### Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="HTML CSS JavaScript Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="Languages and Frameworks"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
 ### Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development Tools"/>
 </p>
 
 <p align="center">
@@ -66,7 +80,9 @@ I'm passionate about technology, programming, and building creative digital expe
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
----
+<br/>
+
+<!-- DEVELOPER JOURNEY -->
 
 ## My Developer Journey
 
@@ -88,11 +104,15 @@ My learning journey is focused on:
   <b>LEARN</b> &nbsp; → &nbsp; <b>CODE</b> &nbsp; → &nbsp; <b>BUILD</b> &nbsp; → &nbsp; <b>DEPLOY</b> &nbsp; → &nbsp; <b>IMPROVE</b>
 </p>
 
----
+<br/>
+
+<!-- FEATURED PROJECTS -->
 
 ## Featured Projects
 
-Here are some of my projects and experiments.
+<p align="center">
+  <i>A collection of projects, experiments, and learning experiences.</i>
+</p>
 
 | Project | Description | Technology |
 |:---|:---|:---|
@@ -107,11 +127,13 @@ Here are some of my projects and experiments.
 
 <p align="center">
   <a href="https://github.com/basim-27?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Projects"/>
   </a>
 </p>
 
----
+<br/>
+
+<!-- GITHUB STATISTICS -->
 
 ## GitHub Statistics
 
@@ -120,25 +142,25 @@ Here are some of my projects and experiments.
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=basim-27&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
----
+<br/>
+
+<!-- CONTRIBUTION CALENDAR -->
 
 ## GitHub Contribution Activity
 
 <p align="center">
   <a href="https://github.com/basim-27">
-    <img
-      src="https://ghchart.rshah.org/basim-27"
-      alt="Muhammad Basim GitHub Contribution Calendar"
-      width="100%"
-    />
+    <img src="https://ghchart.rshah.org/basim-27" alt="Muhammad Basim GitHub Contribution Calendar" width="100%"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Every contribution is another step forward.</i>
+  <i>Consistency creates progress. Every contribution counts.</i>
 </p>
 
----
+<br/>
+
+<!-- FUTURE GOALS -->
 
 ## Future Goals
 
@@ -150,7 +172,9 @@ Here are some of my projects and experiments.
 - [ ] Contribute to Open Source Projects.
 - [ ] Become a Professional Full-Stack Developer.
 
----
+<br/>
+
+<!-- CONNECT -->
 
 ## Connect With Me
 
@@ -168,6 +192,12 @@ Here are some of my projects and experiments.
   <b>Thanks for visiting my profile!</b>
 </p>
 
+<!-- ANIMATED FOOTER -->
+
 <p align="center">
-  <b>Made with dedication by Muhammad Basim</b>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0077B6,100:0D1117&height=120&section=footer&animation=fadeIn" alt="Footer"/>
+</p>
+
+<p align="center">
+  <sub>Designed and maintained by <a href="https://github.com/basim-27">Muhammad Basim</a></sub>
 </p>
