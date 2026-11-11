@@ -1,7 +1,7 @@
-# 👋 Hey, I'm Muhammad Basim!
+# Muhammad Basim
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+Full-Stack+Developer;Frontend+Developer+in+Progress;SMIT+Student;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+Full-Stack+Developer;Frontend+Developer+in+Progress;SMIT+Student;Turning+Ideas+Into+Code" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -17,61 +17,61 @@
 </p>
 
 <p align="center">
-  <b>💻 Aspiring Developer | 🌐 Web Enthusiast | 🚀 Lifelong Learner</b>
+  <b>Aspiring Developer | Web Enthusiast | Lifelong Learner</b>
 </p>
 
 ---
 
-## ◈ About Me
+## About Me
 
 Hello! I'm **Muhammad Basim**, an aspiring Full-Stack Developer from Karachi, Pakistan.
 
 I'm passionate about technology, programming, and building creative digital experiences. Currently, I'm focused on strengthening my development skills and turning ideas into real-world projects.
 
-- 🎓 SMIT Student – Modern Web Application Development.
-- 💻 Passionate about Web Development and Programming.
-- 🌐 Creating responsive websites and interactive interfaces.
-- 🤖 Exploring AI-assisted development.
-- 🚀 Learning new technologies and building projects.
-- 🎯 Working towards becoming a Professional Full-Stack Developer.
+- Currently studying Modern Web Application Development at **Saylani Mass IT Training (SMIT)**.
+- Passionate about Web Development and Programming.
+- Creating responsive websites and interactive interfaces.
+- Exploring AI-assisted development.
+- Learning new technologies and building projects.
+- Working towards becoming a Professional Full-Stack Developer.
 
 > "Great developers are not born. They are built through curiosity, consistency, and code."
 
 ---
 
-## ◈ Tech Stack & Tools
+## Tech Stack & Tools
+
+### Languages & Frameworks
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="HTML CSS JavaScript Bootstrap"/>
+</p>
 
-  **Languages & Frameworks**
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
-  <br/>
+### Development Tools
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="Languages and Frameworks"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code"/>
+</p>
 
-  <br/><br/>
-
-  **Development Tools**
-
-  <br/>
-
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development Tools"/>
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
 
-## ◈ My Developer Journey
+## My Developer Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SMIT-Modern%20Web%20Development-00D9FF?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SMIT-Modern%20Web%20Development-00D9FF?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="SMIT"/>
 </p>
 
 Currently pursuing the **12-month Modern Web Application Development course at Saylani Mass IT Training (SMIT)**.
@@ -85,25 +85,25 @@ My learning journey is focused on:
 - Exploring modern frontend and backend technologies.
 
 <p align="center">
-  <b>LEARN</b> → <b>CODE</b> → <b>BUILD</b> → <b>DEPLOY</b> → <b>IMPROVE</b>
+  <b>LEARN</b> &nbsp; → &nbsp; <b>CODE</b> &nbsp; → &nbsp; <b>BUILD</b> &nbsp; → &nbsp; <b>DEPLOY</b> &nbsp; → &nbsp; <b>IMPROVE</b>
 </p>
 
 ---
 
-## ◈ Featured Projects
+## Featured Projects
 
 Here are some of my projects and experiments.
 
 | Project | Description | Technology |
 |:---|:---|:---|
-| 🌐 [TITAN Website](https://github.com/basim-27/TITAN-Website) | Multi-page institute website | HTML, CSS, JS |
-| 🏛️ [Saylani Website Clone](https://github.com/basim-27/saylani-welfare-clone) | Educational website clone | HTML, CSS |
-| 🏋️ [FitLife Landing Page](https://github.com/basim-27/landing-page) | Gym landing page | HTML, CSS |
-| ⚔️ [JJK Fan Page](https://github.com/basim-27/jjk-fanpage) | Anime-themed website | HTML, CSS, JS |
-| 🎧 [Music Player UI](https://github.com/basim-27/music-player-ui) | Music player interface | HTML, CSS, JS |
-| 🎨 [Background Color Changer](https://github.com/basim-27/color-changing) | Interactive color changer | JavaScript |
-| 📝 [Registration Form](https://github.com/basim-27/registration-form) | HTML registration form | HTML, CSS |
-| 🍳 [Recipe Website](https://github.com/basim-27/recipe-website) | Recipe website | HTML, CSS |
+| [TITAN Website](https://github.com/basim-27/TITAN-Website) | Multi-page institute website | HTML, CSS, JS |
+| [Saylani Website Clone](https://github.com/basim-27/saylani-welfare-clone) | Educational website clone | HTML, CSS |
+| [FitLife Landing Page](https://github.com/basim-27/landing-page) | Gym landing page | HTML, CSS |
+| [JJK Fan Page](https://github.com/basim-27/jjk-fanpage) | Anime-themed website | HTML, CSS, JS |
+| [Music Player UI](https://github.com/basim-27/music-player-ui) | Music player interface | HTML, CSS, JS |
+| [Background Color Changer](https://github.com/basim-27/color-changing) | Interactive color changer | JavaScript |
+| [Registration Form](https://github.com/basim-27/registration-form) | HTML registration form | HTML, CSS |
+| [Recipe Website](https://github.com/basim-27/recipe-website) | Recipe website | HTML, CSS |
 
 <p align="center">
   <a href="https://github.com/basim-27?tab=repositories">
@@ -113,7 +113,7 @@ Here are some of my projects and experiments.
 
 ---
 
-## ◈ GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=basim-27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
@@ -122,7 +122,7 @@ Here are some of my projects and experiments.
 
 ---
 
-## ◈ GitHub Contribution Activity
+## GitHub Contribution Activity
 
 <p align="center">
   <a href="https://github.com/basim-27">
@@ -135,12 +135,12 @@ Here are some of my projects and experiments.
 </p>
 
 <p align="center">
-  <i>Every contribution is another step forward. 💚</i>
+  <i>Every contribution is another step forward.</i>
 </p>
 
 ---
 
-## ◈ Future Goals
+## Future Goals
 
 - [ ] Master JavaScript.
 - [ ] Learn React.js.
@@ -152,7 +152,7 @@ Here are some of my projects and experiments.
 
 ---
 
-## ◈ Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/basim-27">
@@ -161,13 +161,13 @@ Here are some of my projects and experiments.
 </p>
 
 <p align="center">
-  <i>"From my first HTML tag to building meaningful digital experiences."</i>
+  <i>From my first HTML tag to building meaningful digital experiences.</i>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Keep learning, keep building, and keep growing.
+  <b>Thanks for visiting my profile!</b>
 </p>
 
 <p align="center">
-  <b>Made with ❤️ by Muhammad Basim</b>
+  <b>Made with dedication by Muhammad Basim</b>
 </p>
