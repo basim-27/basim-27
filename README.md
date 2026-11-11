@@ -1,52 +1,74 @@
 # Muhammad Basim
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;SMIT+Student;Frontend+Developer+in+Progress;Building+Ideas+Into+Projects" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+Full-Stack+Developer;Frontend+Developer+in+Progress;SMIT+Student;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=basim-27&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/basim-27?style=for-the-badge&color=181717&logo=github&label=FOLLOWERS" alt="GitHub Followers"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/basim-27">
-    <img src="https://komarev.com/ghpvc/?username=basim-27&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/GitHub-basim--27-00D9FF?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/github/followers/basim-27?style=for-the-badge&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-181717?style=flat-square&logo=codeforces&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Learning-Every%20Day-00D9FF?style=flat-square&logo=bookstack&logoColor=white" alt="Learning"/>
 </p>
 
 ---
 
 ### ◈ About Me
 
-Hey! I'm **Muhammad Basim**, an aspiring Full-Stack Developer from Karachi, Pakistan.
+Hey there! 👋 I'm **Muhammad Basim**, an aspiring Full-Stack Developer from Karachi, Pakistan.
 
-- 🎓 SMIT Student – Modern Web Application Development
-- 💻 Passionate about Web Development and Technology
-- 🚀 Building websites and creative projects.
+I enjoy turning ideas into functional websites and exploring the world of programming and technology.
+
+- 🎓 Currently studying Modern Web Application Development at **Saylani Mass IT Training (SMIT)**.
+- 💻 Passionate about Web Development and Programming.
+- 🌐 Building responsive websites and creative projects.
 - 🤖 Exploring AI-assisted development.
-- ⚡ Learning, experimenting, and improving every day.
+- 🚀 Always experimenting with new ideas and improving my skills.
 
-> I believe in learning by building, not just watching tutorials.
+> "I believe in learning by building, not just watching tutorials."
+
+---
 
 ### ◈ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode&theme=dark" alt="My Tech Stack"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### ◈ My Journey
+---
+
+### ◈ My Developer Journey
+
+<p align="center">
+  <img src="https://img.shields.io/badge/12%20Months-SMIT%20Journey-00D9FF?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+</p>
 
 Currently pursuing the **12-month Modern Web Application Development course at Saylani Mass IT Training (SMIT)**.
 
-My journey is focused on developing strong programming fundamentals, creating responsive websites, and gradually moving towards full-stack development.
+My current focus is on strengthening programming fundamentals, mastering JavaScript, developing responsive websites, and gradually progressing towards Full-Stack Development.
 
-**Learn → Code → Build → Deploy → Improve**
+<p align="center">
+  <b>LEARN</b> ⚡ <b>CODE</b> ⚡ <b>BUILD</b> ⚡ <b>DEPLOY</b> ⚡ <b>IMPROVE</b>
+</p>
+
+---
 
 ### ◈ Featured Projects
+
+Here are some projects I've built during my learning journey.
 
 | Project | Description |
 |:---|:---|
@@ -61,47 +83,48 @@ My journey is focused on developing strong programming fundamentals, creating re
 
 <p align="center">
   <a href="https://github.com/basim-27?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-### ◈ GitHub Statistics
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=basim-27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=basim-27&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=basim-27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-### ◈ Future Goals
-
-- Master JavaScript.
-- Learn React.js and modern frontend development.
-- Explore Node.js and backend development.
-- Work with databases and APIs.
-- Build real-world full-stack applications.
-- Become a professional Full-Stack Developer.
-
-### ◈ Connect With Me
-
-<p align="center">
-  <a href="https://github.com/basim-27">
-    <img src="https://img.shields.io/badge/GitHub-basim--27-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Projects"/>
   </a>
 </p>
 
 ---
 
+### ◈ GitHub Statistics
+
 <p align="center">
-  <i>"From writing my first HTML tag to building full-stack applications."</i>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=basim-27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=basim-27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <img width="70%" src="https://streak-stats.demolab.com?user=basim-27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### ◈ Future Goals 🎯
+
+- [ ] Master JavaScript.
+- [ ] Learn React.js.
+- [ ] Explore Node.js and Backend Development.
+- [ ] Understand Databases and APIs.
+- [ ] Build real-world Full-Stack Applications.
+- [ ] Become a Professional Full-Stack Developer.
+
+---
+
+### ◈ Let's Connect!
+
+<p align="center">
+  <a href="https://github.com/basim-27">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building today. Improving tomorrow. Creating the future. 🚀</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories.
 </p>
