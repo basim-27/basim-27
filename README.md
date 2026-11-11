@@ -1,3 +1,4 @@
+ 
 <!-- ==================== HEADER ==================== -->
 
 <p align="center">
@@ -148,7 +149,7 @@ My learning journey is focused on:
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=basim-27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&show=contributions&hide=commits"
-    width="90%"
+    width="65%"
     alt="GitHub Statistics and Contributions"
   />
 </p>
@@ -156,7 +157,7 @@ My learning journey is focused on:
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=basim-27&layout=compact&theme=tokyonight&hide_border=true"
-    width="70%"
+    width="50%"
     alt="Most Used Languages"
   />
 </p>
