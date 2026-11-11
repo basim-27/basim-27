@@ -96,8 +96,14 @@ Here are some projects I've built during my learning journey.
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=basim-27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
+---
+
+### ◈ GitHub Contribution Activity
+
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=basim-27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/basim-27">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=basim-27&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
+  </a>
 </p>
 
 ---
