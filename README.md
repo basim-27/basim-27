@@ -102,7 +102,11 @@ Here are some projects I've built during my learning journey.
 
 <p align="center">
   <a href="https://github.com/basim-27">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basim-27&theme=tokyonight" width="100%" alt="Muhammad Basim GitHub Contribution Activity"/>
+    <img
+      src="https://ghchart.rshah.org/00D9FF/basim-27"
+      alt="Muhammad Basim GitHub Contribution Calendar"
+      width="100%"
+    />
   </a>
 </p>
 
