@@ -102,7 +102,7 @@ Here are some projects I've built during my learning journey.
 
 <p align="center">
   <a href="https://github.com/basim-27">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=basim-27&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basim-27&theme=tokyonight" width="100%" alt="Muhammad Basim GitHub Contribution Activity"/>
   </a>
 </p>
 
