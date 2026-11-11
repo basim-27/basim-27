@@ -1,16 +1,12 @@
-<!-- ANIMATED HEADER -->
+<!-- ==================== HEADER ==================== -->
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0077B6,100:00D9FF&height=220&section=header&text=Muhammad%20Basim&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Header"/>
 </p>
 
-<!-- TYPING ANIMATION -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=55&lines=Aspiring+Full-Stack+Developer;Frontend+Developer+in+Progress;SMIT+Student;Building+Ideas+Into+Code" alt="Typing Animation"/>
 </p>
-
-<!-- PROFILE BADGES -->
 
 <p align="center">
   <a href="https://github.com/basim-27">
@@ -19,20 +15,21 @@
   <a href="https://github.com/basim-27?tab=followers">
     <img src="https://img.shields.io/github/followers/basim-27?style=for-the-badge&color=0077B6&logo=github&label=FOLLOWERS" alt="Followers"/>
   </a>
-  <a href="https://github.com/basim-27?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-181717?style=for-the-badge&logo=github" alt="Repositories"/>
-  </a>
 </p>
 
 <p align="center">
-  <b>DEVELOPER</b> &nbsp; | &nbsp; <b>TECH ENTHUSIAST</b> &nbsp; | &nbsp; <b>LIFELONG LEARNER</b>
+  <b>DEVELOPER</b> | <b>TECH ENTHUSIAST</b> | <b>LIFELONG LEARNER</b>
 </p>
 
-<br/>
+---
 
-<!-- ABOUT ME -->
+<!-- ==================== ABOUT ==================== -->
 
 ## About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Muhammad+Basim.;I+love+building+things+with+code.;Learning+today%2C+building+tomorrow." alt="Introduction"/>
+</p>
 
 Hello! I'm **Muhammad Basim**, an aspiring Full-Stack Developer from Karachi, Pakistan.
 
@@ -46,14 +43,16 @@ I'm passionate about technology, programming, and building creative digital expe
 - Working towards becoming a Professional Full-Stack Developer.
 
 <p align="center">
-  <i>"Great developers are built through curiosity, consistency, and code."</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,100:00D9FF&height=2&section=header" width="85%" alt="Section divider"/>
 </p>
 
-<br/>
-
-<!-- TECH STACK -->
+<!-- ==================== TECH STACK ==================== -->
 
 ## Tech Stack & Tools
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&width=450&lines=Technologies+I+Work+With;Tools+That+Power+My+Projects" alt="Tech Stack Animation"/>
+</p>
 
 ### Languages & Frameworks
 
@@ -80,14 +79,20 @@ I'm passionate about technology, programming, and building creative digital expe
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,100:00D9FF&height=2&section=header" width="85%" alt="Section divider"/>
+</p>
 
-<!-- DEVELOPER JOURNEY -->
+<!-- ==================== JOURNEY ==================== -->
 
 ## My Developer Journey
 
 <p align="center">
   <img src="https://img.shields.io/badge/SMIT-Modern%20Web%20Development-00D9FF?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="SMIT"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github&theme=dark" alt="Learning Technologies"/>
 </p>
 
 Currently pursuing the **12-month Modern Web Application Development course at Saylani Mass IT Training (SMIT)**.
@@ -101,29 +106,56 @@ My learning journey is focused on:
 - Exploring modern frontend and backend technologies.
 
 <p align="center">
-  <b>LEARN</b> &nbsp; → &nbsp; <b>CODE</b> &nbsp; → &nbsp; <b>BUILD</b> &nbsp; → &nbsp; <b>DEPLOY</b> &nbsp; → &nbsp; <b>IMPROVE</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=650&lines=LEARN+%E2%86%92+CODE+%E2%86%92+BUILD;BUILD+%E2%86%92+DEPLOY+%E2%86%92+IMPROVE" alt="Developer Journey"/>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,100:00D9FF&height=2&section=header" width="85%" alt="Section divider"/>
+</p>
 
-<!-- FEATURED PROJECTS -->
+<!-- ==================== PROJECTS ==================== -->
 
 ## Featured Projects
 
 <p align="center">
-  <i>A collection of projects, experiments, and learning experiences.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=450&lines=Things+I've+Built;Learning+Through+Real+Projects" alt="Projects Animation"/>
 </p>
 
-| Project | Description | Technology |
-|:---|:---|:---|
-| [TITAN Website](https://github.com/basim-27/TITAN-Website) | Multi-page institute website | HTML, CSS, JS |
-| [Saylani Website Clone](https://github.com/basim-27/saylani-welfare-clone) | Educational website clone | HTML, CSS |
-| [FitLife Landing Page](https://github.com/basim-27/landing-page) | Gym landing page | HTML, CSS |
-| [JJK Fan Page](https://github.com/basim-27/jjk-fanpage) | Anime-themed website | HTML, CSS, JS |
-| [Music Player UI](https://github.com/basim-27/music-player-ui) | Music player interface | HTML, CSS, JS |
-| [Background Color Changer](https://github.com/basim-27/color-changing) | Interactive color changer | JavaScript |
-| [Registration Form](https://github.com/basim-27/registration-form) | HTML registration form | HTML, CSS |
-| [Recipe Website](https://github.com/basim-27/recipe-website) | Recipe website | HTML, CSS |
+<p align="center">
+  <a href="https://github.com/basim-27/TITAN-Website">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=basim-27&repo=TITAN-Website&theme=tokyonight&hide_border=true" alt="TITAN Website"/>
+  </a>
+  <a href="https://github.com/basim-27/saylani-welfare-clone">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=basim-27&repo=saylani-welfare-clone&theme=tokyonight&hide_border=true" alt="Saylani Clone"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/basim-27/landing-page">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=basim-27&repo=landing-page&theme=tokyonight&hide_border=true" alt="FitLife Landing Page"/>
+  </a>
+  <a href="https://github.com/basim-27/jjk-fanpage">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=basim-27&repo=jjk-fanpage&theme=tokyonight&hide_border=true" alt="JJK Fan Page"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/basim-27/music-player-ui">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=basim-27&repo=music-player-ui&theme=tokyonight&hide_border=true" alt="Music Player UI"/>
+  </a>
+  <a href="https://github.com/basim-27/color-changing">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=basim-27&repo=color-changing&theme=tokyonight&hide_border=true" alt="Color Changer"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/basim-27/registration-form">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=basim-27&repo=registration-form&theme=tokyonight&hide_border=true" alt="Registration Form"/>
+  </a>
+  <a href="https://github.com/basim-27/recipe-website">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=basim-27&repo=recipe-website&theme=tokyonight&hide_border=true" alt="Recipe Website"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/basim-27?tab=repositories">
@@ -131,26 +163,42 @@ My learning journey is focused on:
   </a>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,100:00D9FF&height=2&section=header" width="85%" alt="Section divider"/>
+</p>
 
-<!-- GITHUB STATISTICS -->
+<!-- ==================== GITHUB STATS ==================== -->
 
 ## GitHub Statistics
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&width=400&lines=My+GitHub+Activity;Code.+Commit.+Repeat." alt="Statistics Animation"/>
+</p>
 
 <p align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=basim-27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=basim-27&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
-<br/>
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=basim-27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-<!-- CONTRIBUTION CALENDAR -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,100:00D9FF&height=2&section=header" width="85%" alt="Section divider"/>
+</p>
+
+<!-- ==================== CONTRIBUTIONS ==================== -->
 
 ## GitHub Contribution Activity
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&width=450&lines=Every+Commit+Counts;Consistency+Creates+Progress" alt="Contribution Animation"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/basim-27">
-    <img src="https://ghchart.rshah.org/basim-27" alt="Muhammad Basim GitHub Contribution Calendar" width="100%"/>
+    <img src="https://ghchart.rshah.org/basim-27" alt="GitHub Contribution Calendar" width="100%"/>
   </a>
 </p>
 
@@ -158,25 +206,49 @@ My learning journey is focused on:
   <i>Consistency creates progress. Every contribution counts.</i>
 </p>
 
-<br/>
+### Contribution Snake
 
-<!-- FUTURE GOALS -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basim-27/basim-27/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,100:00D9FF&height=2&section=header" width="85%" alt="Section divider"/>
+</p>
+
+<!-- ==================== FUTURE GOALS ==================== -->
 
 ## Future Goals
 
-- [ ] Master JavaScript.
-- [ ] Learn React.js.
-- [ ] Explore Node.js and Backend Development.
-- [ ] Learn Databases and APIs.
-- [ ] Build real-world Full-Stack Applications.
-- [ ] Contribute to Open Source Projects.
-- [ ] Become a Professional Full-Stack Developer.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=450&lines=Always+Learning;Always+Building;Always+Improving" alt="Future Goals Animation"/>
+</p>
 
-<br/>
+| Goal | Status |
+|:---|:---:|
+| Master JavaScript | In Progress |
+| Learn React.js | Planned |
+| Explore Node.js | Planned |
+| Learn Databases and APIs | Planned |
+| Build Full-Stack Applications | Planned |
+| Contribute to Open Source | Planned |
+| Become a Professional Developer | Future Goal |
 
-<!-- CONNECT -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql&theme=dark" alt="Future Technologies"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B6,100:00D9FF&height=2&section=header" width="85%" alt="Section divider"/>
+</p>
+
+<!-- ==================== CONNECT ==================== -->
 
 ## Connect With Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=450&lines=Let's+Connect+and+Build+Together;Open+to+Learning+and+Collaboration" alt="Connect Animation"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/basim-27">
@@ -192,10 +264,10 @@ My learning journey is focused on:
   <b>Thanks for visiting my profile!</b>
 </p>
 
-<!-- ANIMATED FOOTER -->
+<!-- ==================== FOOTER ==================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0077B6,100:0D1117&height=120&section=footer&animation=fadeIn" alt="Footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0077B6,100:0D1117&height=130&section=footer&animation=fadeIn" alt="Footer"/>
 </p>
 
 <p align="center">
